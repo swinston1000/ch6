@@ -13,5 +13,5 @@ elvAc_roster.numOfStudents = function(){
 elvAc_roster.numOfStudents();
 
 var brandonsFunction = function(){
-  console.log('hey')
+  alert('hey')
 }
