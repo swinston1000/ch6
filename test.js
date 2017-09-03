@@ -11,3 +11,7 @@ elvAc_roster.numOfStudents = function(){
     return elvAc_roster.names.girls.length + elvAc_roster.names.boys.length;
 }
 elvAc_roster.numOfStudents();
+
+var brandonsFunction = function(){
+  console.log('hey')
+}
